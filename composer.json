@@ -1,0 +1,19 @@
+{
+  "name": "trongtd/datetime",
+  "type": "library",
+  "description": "Datetime package",
+  "keywords": ["datetime"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tran Dinh Trong",
+      "email": "trong.td@neo-lab.vn",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "TrongTD\\Datetime\\": "src/"
+    }
+  }
+}
